@@ -22,4 +22,19 @@ The system detects pose landmarks, computes elbow–shoulder–wrist angles, ali
 - OpenCV  
 - Ultralytics YOLOv8 Pose  
 - NumPy  
-- Computer Vision Landmark Geometry  
+- Computer Vision Landmark Geometry
+
+---
+
+## 🎥 Demo Videos (Local Files)
+
+### 🔹 Left View (L)
+https://github.com/YourRepo/YourProject/blob/main/Videos/L/01.mp4
+
+### 🔹 Right View (R)
+https://github.com/YourRepo/YourProject/blob/main/Videos/R/01.mp4
+
+### 🔹 Front View (F)
+https://github.com/YourRepo/YourProject/blob/main/Videos/F/01.mp4
+
+
